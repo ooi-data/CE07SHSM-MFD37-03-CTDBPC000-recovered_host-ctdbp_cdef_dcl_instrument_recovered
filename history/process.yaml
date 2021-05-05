@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-MFD37-03-CTDBPC000-recovered_host-ctdbp_cdef_dcl_instrument_recovered
 data_stream: CE07SHSM-MFD37-03-CTDBPC000-recovered_host-ctdbp_cdef_dcl_instrument_recovered
 end_date: '2019-12-26T04:30:16.959Z'
-last_updated: '2021-05-05T02:35:25.124507Z'
+last_updated: '2021-05-05T21:28:28.641333'
 start_date: '2015-04-05T19:29:23.883Z'
-status: pending
+status: success
